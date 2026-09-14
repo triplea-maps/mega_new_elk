@@ -1,0 +1,5 @@
+map_name: mega_new_elk
+games:
+- {game_name: Mega New Elk, file_name: mega_new_elk.xml}
+- {game_name: Mega New Elk 1939, file_name: mega_new_elk_1939.xml}
+- {game_name: Mega New Elk 1940, file_name: mega_new_elk_1940.xml}
